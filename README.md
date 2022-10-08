@@ -1,8 +1,8 @@
 # burb-crash
-A game of deliveries, corporations, hyperinflation, and the metaverse
+An open world game of deliveries, corporations, hyperinflation, and the metaverse
 
 ## Background
-The year is 2250 and humanity has solved many problems, including energy, climate change, war and poverty. However, some challenges still exist. The main thing that challenges humanity is getting sensitive data delivered on time. All forms of cryptography have been cracked so transferring sensitive data via the internet is impossible, the only option is to use courier. Couriers are specially trained and drive highly tuned delivery vehicles. You are a beginner courier working your way up to more important tasks. Can you make your deliveries on time, or will you be stopped by your competitors?
+The year is 2250 and humanity has solved many problems, including energy, climate change, war and poverty. However, some challenges still exist. The main thing that challenges humanity is getting sensitive data delivered on time. All forms of cryptography have been cracked so transferring sensitive data via the internet is impossible, the only option is to use a courier. Couriers are specially trained and drive highly tuned delivery vehicles. You are a beginner courier working in the city of Despiro trying to work your way up to more important courier tasks. Can you make your deliveries on time, or will you be stopped by your competitors?
 
 ## Theme
 A solarpunk style theme. This is not to say that everything in the world is perfect, but the abundance of energy has helped humanity achieve a certain base level of equality which gives the world an easy going vibe. The couriers are an exception to this rule, they rush through a mostly calm environment to complete their delivieries and often clash with the people who are comfortable living their peaceful and easy lives.
@@ -27,6 +27,9 @@ Foam9 - The largest entertainment company in the world, they work with couriers 
 BR772 - A robotics company specializing in robotic travel and human augmentation.
 
 Window12 - The largest private communications network. Allows for citizens to send private messages to each other. Window12 utilizes a network of couriers to deliver messages between high ranking citizens. Only expert couriers will be selected for these as many of these messages are extremely private and important. Window12 has an extremely selective process when choosing which couriers to work with.
+
+## Game Type
+BurbCrash is an open world game where you can explore the city of Despiro. The main plot of the story is progressed by completing courier missions. Courier missions are more "on rails" game type that guide you from start to finish. They have specific time requirements or tasks that must be completed in order to finish the mission.
 
 ## Main Plot
 
@@ -57,6 +60,14 @@ You start putting the puzzle pieces together that your society is a house of car
 ### Courier Missions
 Courier missions should focus around driving through busy city streets, alleyways, and dodging pedestrians, unexpected roadblocks and other couriers to complete your deliveries on time. Can have a Mirror's Edge vibe mixed with Subway surfer
 
+### Example Mission Template
+1. Assignment: You find a character in game who has a task they need a courier for. This starts out as doing small tasks for you neighbors and local businesses, but eventually you will be accepting high risk/reward tasks from CEO's of some of the largest companies and organizations in Despiro.
+2. Mission start: After accepting a mission the open world will go away and in it's place the player will be put into the mission map. The mission map still resembles Despiro but will allow for more control over the environment.
+3. Mission objective: The player will see the mission objective e.g. "Deliver Mr. Yamo's secret message to his business partners before 3:00 PM"
+4. Mission complete: If the player succeeded in the mission they will be rewarded and experience will be gained.
+
+The above flow should be followed for most missions, however the main storyline missions will be more complex.
+
 ### Courier Vehicle Upgrades
 This is a main aspect of the game, you need to upgrade your vehicle in order to complete higher level missions and rise in the ranks of couriers. You will work with you neighbor Socket to upgrade your vehicle and can test it in the local streets before taking it on courier missions.
 
@@ -68,5 +79,40 @@ You will do most vehicle upgrades in your neighbors garage but as you level up y
 
 ## Genre
 Game should maintain a mostly solarpunk asthetic for the first 2 phases, in phase 3 you start to see cracks in the idealistic view of the world and a more cypberpunk aesthetic starts to come out, in phase 4 the game is mostly cyberpunk themed.
+
+## Feasibility Analysis
+
+### Personas
+We target two user personas with our feasibiilty analysis report 1. Crypt Natives 2. Mobile Gamers
+
+#### Crypto Native
+##### Who are they?
+Someone who is very familiar with interacting with web3 dapps via metamask. They are very involved in the crypto spaces watching videos, reading research, and interacting on crypto twitter
+
+##### What is their main goal?
+They want to explore new games that have a web3 or crypto element to them in order to better understand the ecosystem. These types of crypto natives tend to be early adopters and have an interest in gaming or have played games in the past. They want to have fun while using and learning about new technologies.
+
+#### Mobile Gamer
+##### Who are they?
+Someone who avidly plays mobile games. They are familiar with basic gameplay mechanics and mobile gaming economies (pay for extra boosts/items). They play games for fun and to escape.
+
+##### What is their main goal?
+They want to enjoy playing a fun and engrossing game. They are not as concerned about the philosophy or technology behind the game as long as it stays out of their way and allows them to enjoy an fun and challenging game.
+
+### Marketing
+
+In order to target our crypto native users we can leverage channels that they are known to frequency. These channels include popular crypto YouTube channels, twitter accounts, and newsletters.
+
+Giving them an incentive to download and play the game will be key to gaining adoption from these users. We can do this by giving them an airdrop, possibly of DeAuto credits or the in game token. This will incetivize early adoption. We can also host some aspect of the game on a layer 2 blockchain built for gaming, which will give them another incetive to try the game, as they are killing two birds with one stone i.e. they are gaining experience on the layer 2 blockchain and enjoying a game at the same time.
+
+To target the mobile gamers we will need to reach out to popular gaming YouTube channels, and advertise in app stores and inside other popular mobile games. These users will need a great onboarding process as they may not be familiar with crypto and how to interact with web3 games.
+
+### Game Play Research
+
+The game play will be based off the game play of other very popular games such as Mirrors Edge, Jet Set Radio, and Grand Theft Auto. These games combine and open world with mission based gameplay that gives the user a chance to explore or play a more "on rails" game when they feel like progressing through the main storyline.
+
+This type of game appeals to a broad audience as casual players can complete side missions or explore the world at their leisure, while hardcore gamers can focus on the main storyline and in game achievements.
+
+
 
 
