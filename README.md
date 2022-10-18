@@ -1,5 +1,5 @@
 # burb-crash
-An open world game of deliveries, corporations, hyperinflation, and the metaverse
+A game of deliveries, racing, corporations, hyperinflation, and the metaverse
 
 ## Background
 The year is 2250 and humanity has solved many problems, including energy, climate change, war and poverty. However, some challenges still exist. The main thing that challenges humanity is getting sensitive data delivered on time. All forms of cryptography have been cracked so transferring sensitive data via the internet is impossible, the only option is to use a courier. Couriers are specially trained and drive highly tuned delivery vehicles. You are a beginner courier working in the city of Despiro trying to work your way up to more important courier tasks. Can you make your deliveries on time, or will you be stopped by your competitors?
@@ -29,7 +29,7 @@ BR772 - A robotics company specializing in robotic travel and human augmentation
 Window12 - The largest private communications network. Allows for citizens to send private messages to each other. Window12 utilizes a network of couriers to deliver messages between high ranking citizens. Only expert couriers will be selected for these as many of these messages are extremely private and important. Window12 has an extremely selective process when choosing which couriers to work with.
 
 ## Game Type
-BurbCrash is an open world game where you can explore the city of Despiro. The main plot of the story is progressed by completing courier missions. Courier missions are more "on rails" game type that guide you from start to finish. They have specific time requirements or tasks that must be completed in order to finish the mission.
+BurbCrash is a semi open world game, you can explore and test your car in a small area around your home, then jump into missions and complete challenges to explore more of the city. The main plot of the story is progressed by completing courier missions. Courier missions are more "on rails" game type that guide you from start to finish. They have specific time requirements or tasks that must be completed in order to finish the mission.
 
 ## Main Plot
 
