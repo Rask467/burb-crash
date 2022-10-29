@@ -1,6 +1,8 @@
 # burb-crash
 A game of deliveries, racing, corporations, hyperinflation, and the metaverse
 
+[Video Explanation](https://youtu.be/fB5AYH86mC0)
+
 ## Background
 The year is 2250 and humanity has solved many problems, including energy, climate change, war and poverty. However, some challenges still exist. The main thing that challenges humanity is getting sensitive data delivered on time. All forms of cryptography have been cracked so transferring sensitive data via the internet is impossible, the only option is to use a courier. Couriers are specially trained and drive highly tuned delivery vehicles. You are a beginner courier working in the city of Despiro trying to work your way up to more important courier tasks. Can you make your deliveries on time, or will you be stopped by your competitors?
 
