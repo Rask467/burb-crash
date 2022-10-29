@@ -109,10 +109,8 @@ To target the mobile gamers we will need to reach out to popular gaming YouTube 
 
 ### Game Play Research
 
-The game play will be based off the game play of other very popular games such as Mirrors Edge, Jet Set Radio, and Grand Theft Auto. These games combine and open world with mission based gameplay that gives the user a chance to explore or play a more "on rails" game when they feel like progressing through the main storyline.
+The game play will be based off the game play of other very popular mobile games such as Subway Surfer. Along with this there will be a small open world element that will let the player explore the world, and upgrade and test their NAV before missions.
 
 This type of game appeals to a broad audience as casual players can complete side missions or explore the world at their leisure, while hardcore gamers can focus on the main storyline and in game achievements.
 
-
-
-
+Mobile games that have quick missions or levels can be very addictive and fun to play for millions of people. For example, Subway Surfers has 39.6M reviews and is rated 4.6 stars with over 1 billion downloads. Combine this fun gameplay mechanic of dodging enemies and traffic while attempting to deliver time sensitive information with crypto incentives and in game rewards and there is a hit in the making.
